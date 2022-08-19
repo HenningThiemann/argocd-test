@@ -1,0 +1,1 @@
+docker run -it --rm -d -p 8888:80 --name argocd-test argocd-test
